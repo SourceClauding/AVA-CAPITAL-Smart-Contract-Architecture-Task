@@ -1,0 +1,16 @@
+# Chiavi private e variabili d'ambiente (FONDAMENTALE NON CARICARLE)
+.env
+.env.local
+
+# Cartelle di compilazione e cache di Foundry (occupano solo spazio inutile su GitHub)
+cache/
+out/
+broadcast/
+reports/
+
+# Dipendenze Node (se hai usato npm in passato)
+node_modules/
+
+# File di sistema
+.DS_Store
+Thumbs.db
